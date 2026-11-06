@@ -1,0 +1,9 @@
+Student Name: Mohammed
+Course: BCA
+College: Yenepoya
+Year: 2026
+
+Student Name: Razeen
+Course: BCA
+College: Yenepoya College
+Year: 2026

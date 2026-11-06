@@ -1,0 +1,6 @@
+
+name:javad
+course:bca
+age22
+mark99
+*************
